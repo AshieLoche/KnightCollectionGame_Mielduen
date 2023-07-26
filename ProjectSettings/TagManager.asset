@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coins
+  - Lava
+  - Bear Trap
+  - Side Push Trap
+  - Chest
+  - Player 1
+  - Player 2
   layers:
   - Default
   - TransparentFX
@@ -40,4 +47,28 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 950706309
+    locked: 0
+  - name: Traps
+    uniqueID: 375274009
+    locked: 0
+  - name: Chest
+    uniqueID: 1933555235
+    locked: 0
+  - name: Entities
+    uniqueID: 1513175825
+    locked: 0
+  - name: Collectibles
+    uniqueID: 1059096467
+    locked: 0
+  - name: Wall Traps Censor
+    uniqueID: 1474998849
+    locked: 0
+  - name: Walls
+    uniqueID: 508703217
+    locked: 0
+  - name: Wall Traps
+    uniqueID: 621517969
     locked: 0
